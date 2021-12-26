@@ -95,7 +95,7 @@ img {
     background-color: pink;
     overflow: hidden;
     position: relative;
-}
+} 
 .inner ul {
     width: 1000%;
     position: absolute;
