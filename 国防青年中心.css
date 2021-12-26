@@ -1,7 +1,8 @@
 body{
-    background-image: url(img/fc18a85f-5752-456b-b4cf-d52ae475e582.jpg);
+    background:linear-gradient(45deg,purple,red,green,rgb(202, 15, 15),green,rgb(22, 143, 6),rgb(180, 6, 196));
     background-repeat:repeat;
     background-position: bottom;
+    height: 3000px;
 }    
 h2{
     text-align: left;
